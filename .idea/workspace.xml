@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85c52e08-99e5-44b9-96ab-93f00f86e05f" name="Changes" comment="" />
+    <list default="true" id="85c52e08-99e5-44b9-96ab-93f00f86e05f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644964451196</updated>
       <workItem from="1644964453462" duration="8614000" />
-      <workItem from="1645026698190" duration="1106000" />
+      <workItem from="1645026698190" duration="1297000" />
     </task>
     <servers />
   </component>
