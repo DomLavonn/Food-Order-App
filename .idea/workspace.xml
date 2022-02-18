@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85c52e08-99e5-44b9-96ab-93f00f86e05f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/store/CartProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/cart-content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/CartProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CartProvider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,11 @@
       <option name="presentableId" value="Default" />
       <updated>1644964451196</updated>
       <workItem from="1644964453462" duration="8614000" />
-      <workItem from="1645026698190" duration="8903000" />
+      <workItem from="1645026698190" duration="10393000" />
+      <workItem from="1645071177185" duration="601000" />
+      <workItem from="1645110233977" duration="2786000" />
+      <workItem from="1645131967865" duration="5000" />
+      <workItem from="1645139871175" duration="817000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ import CartContext from "./cart-content";
 const CartProvider = (props) => {
     const cartContext = {
         items: [],
-        totalAmounts
+        totalAmount
     }
 
   return   <CartContext.Provider>
